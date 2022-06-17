@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **JS, CSS, HTML**
 
+- 👨‍💻 All of my projects are available at [https://link.snipfeed.co/sniteur](https://link.snipfeed.co/sniteur)
+
+- 📫 How to reach me **vincent.sniteur@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
