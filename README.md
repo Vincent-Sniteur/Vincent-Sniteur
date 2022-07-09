@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vincent - Sniteur</h1>
+<h1 align="center">Hi 👋, I'm Vincent - Sniteur !</h1>
 <h3 align="center">Lover of new technologies and mainly self-taught.</h3>
 
 - 🌱 I’m currently learning **JS, CSS, HTML**
