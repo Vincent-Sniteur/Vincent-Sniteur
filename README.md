@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vincent - Sniteur !</h1>
+<h1 align="center">🍀 Vincent</h1>
 <h3 align="center">Lover of new technologies and mainly self-taught.</h3>
 
 - 🌱 I’m currently learning **JS, CSS, HTML**
+
+- 🍀 For a website need, contact us [https://infenium.fr/](https://infenium.fr/)
 
 - 👨‍💻 All of my projects are available at [https://link.snipfeed.co/sniteur](https://link.snipfeed.co/sniteur)
 
