@@ -1,7 +1,7 @@
 <h1 align="center">🍀 Vincent</h1>
 <h3 align="center">Lover of new technologies and mainly self-taught.</h3>
 
-- 🌱 I’m currently learning **JS, CSS, HTML**
+- 🌱 I’m currently learning **JS, CSS, HTML, AI**
 
 - 🍀 For a website need, contact us [https://infenium.fr/](https://infenium.fr/)
 
